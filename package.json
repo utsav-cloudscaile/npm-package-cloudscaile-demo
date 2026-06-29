@@ -1,6 +1,6 @@
 {
   "name": "@utsavshethyoddha/npm-package-cloudscaile-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CloudScaile Demo package",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
