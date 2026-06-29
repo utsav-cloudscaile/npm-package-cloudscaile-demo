@@ -25,7 +25,7 @@ __export(index_exports, {
 });
 module.exports = __toCommonJS(index_exports);
 function greet(name = "World") {
-  return `Hello, ${name}!`;
+  return `Hello, ${name}`;
 }
 var index_default = greet;
 // Annotate the CommonJS export names for ESM import in node:
